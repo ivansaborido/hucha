@@ -1,0 +1,25 @@
+{
+  "name": "Nuestra Hucha",
+  "short_name": "Hucha",
+  "description": "Control de gastos y ahorro del hogar",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FCE7F1",
+  "theme_color": "#0E7A5B",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
